@@ -9,4 +9,4 @@ Use Deployment manger to setup
 * Reserving a new static external IP address
 * SSL loadbalancer
 
-Does what's described in https://cloud.google.com/sql/docs/postgres/connect-kubernetes-engine
+Do what's described in https://cloud.google.com/sql/docs/postgres/connect-kubernetes-engine
