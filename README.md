@@ -8,7 +8,7 @@ Use Deployment manger to setup
 * Cloud SQL with an service account
 Enable the API
 Enable the Cloud SQL Admin API.
-ENABLE THE API: https://console.cloud.google.com/flows/enableapi?apiid=sqladmin&redirect=https://console.cloud.google.com&_ga=2.112788804.-1901542352.1539335125&_gac=1.142207494.1540974947.EAIaIQobChMIk-3V_6Kw3gIVC7nACh0EUgqnEAAYASAAEgKbZvD_BwE
+[ENABLE THE API](https://console.cloud.google.com/flows/enableapi?apiid=sqladmin&redirect=https://console.cloud.google.com&_ga=2.112788804.-1901542352.1539335125&_gac=1.142207494.1540974947.EAIaIQobChMIk-3V_6Kw3gIVC7nACh0EUgqnEAAYASAAEgKbZvD_BwE)
 
 
 * Reserving a new static external IP address
